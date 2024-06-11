@@ -8,8 +8,14 @@ const perguntas = [
     {
         enunciado:"Você gosta de bolo de chocolate?", 
         alternativas:[
-            "Sim",
-            "Não",
+            {
+           texto:"Sim",
+            afirmação:"afirmação",
+            }
+    {
+        texto:"Não",
+        afirmação:"afirmação",
+    },
         ]
     },
     {
