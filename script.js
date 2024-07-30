@@ -6,42 +6,42 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado:"Você gosta de bolo de chocolate?", 
-        alternativas:[
+        enunciado: "Você gosta de bolo de chocolate?", 
+        alternativas: [
             {
-           texto:"Sim",
-            afirmação:"afirmação",
+           texto: "Sim",
+            afirmação: "afirmação",
             }
     {
-        texto:"Não",
-        afirmação:"afirmação",
+        texto: "Não",
+        afirmação: "afirmação",
     },
         ]
     },
     {
-        enunciado:"E de bolo de cenoura?", 
-        alternativas:[
+        enunciado: "E de bolo de cenoura?", 
+        alternativas: [
             "Sim",
             "Não",
         ]
     },
     {
-        enunciado:"Gosta de bolo de milho?", 
-        alternativas:[
+        enunciado: "Gosta de bolo de milho?", 
+        alternativas: [
             "Sim",
             "Não",
         ]
     },
     {
-        enunciado:"Bolo de fubá tbm?", 
-        alternativas:[
+        enunciado: "Bolo de fubá tbm?", 
+        alternativas: [
             "Sim",
             "Não",
         ]
     },
     {
-        enunciado:"Vocẽ gosta mesmo de bolo?", 
-        alternativas:[
+        enunciado: "Vocẽ gosta mesmo de bolo?", 
+        alternativas: [
             "Sim",
             "Não",
         ]
